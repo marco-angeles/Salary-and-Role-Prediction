@@ -1,4 +1,6 @@
-# job_salary_role_prediction
+Job Salary and Job Role Prediction
+----------------------------------
+
 System that predicts the salary class, as well as the job role, of job postings at Seek website
 
 When on the hunt for a data science job, your platform of choice could include at least one of the following:
